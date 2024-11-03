@@ -1,7 +1,4 @@
-
 from vista.login import Login # Ajusta según la clase Login que hayas definido
-
-
 
 def main():
     principal = Login()
@@ -9,3 +6,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    #con esto ya debería funcionar
